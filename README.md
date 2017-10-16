@@ -1,3 +1,4 @@
 # hello-world
  1st Repository
-Learning how Git and Github work
+1st branch - Learning how Git and Github work
+2nd branch - Practicing
